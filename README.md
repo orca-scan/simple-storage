@@ -1,6 +1,6 @@
 # simple-storage
 
-[![Tests](https://github.com/john-doherty/simple-storage/actions/workflows/ci.yml/badge.svg)](https://github.com/john-doherty/simple-storage/actions/workflows/ci.yml)
+[![Tests](https://github.com/orca-scan/simple-storage/actions/workflows/ci.yml/badge.svg)](https://github.com/orca-scan/simple-storage/actions/workflows/ci.yml)
 
 **simpleStorage** is a lightweight JavaScript library designed to enhance the usability and functionality of the browser's `localStorage`. It simplifies the process of storing, retrieving, and managing data by automatically handling data type casting. This means you can store and retrieve various data types, including objects, arrays, booleans, and numbers, without worrying about manual serialization or deserialization.
 
@@ -82,8 +82,12 @@ If you find this useful ⭐ the repo, it helps me prioritise which bugs to work 
 
 ## History
 
-For change-log, check [releases](https://github.com/john-doherty/simple-storage/releases).
+For change-log, check [releases](https://github.com/orca-scan/simple-storage/releases).
+
+## Star the repo
+
+Find this useful? Star the repo - it help us priorities open source tasks 🌟
 
 ## License
 
-Licensed under [MIT License](LICENSE) &copy; [John Doherty](https://twitter.com/mrJohnDoherty)
+[MIT License](LICENSE) © Orca Scan - a [barcode app](https://orcascan.com) with simple [barcode tracking APIs](https://orcascan.com/guides?tag=for-developers).

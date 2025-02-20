@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/john-doherty/simple-storage.git"
+    "url": "git+https://github.com/orca-scan/simple-storage.git"
   },
   "bugs": {
-    "url": "https://github.com/john-doherty/simple-storage/issues"
+    "url": "https://github.com/orca-scan/simple-storage/issues"
   },
   "keywords": [
     "localStorage"
   ],
-  "author": "John Doherty <contact@johndoherty.info> (www.johndoherty.info)",
+  "author": "Orca Scan <hello@orcascan.com>",
   "license": "MIT",
   "devDependencies": {
     "del": "2.2.2",

@@ -1,8 +1,8 @@
 /*!
  * simple-storage.js - v@version@
  * 1k auto-casting localStorage helper
- * https://github.com/john-doherty/simple-storage
- * @author John Doherty <www.johndoherty.info>
+ * https://github.com/orca-scan/simple-storage
+ * @author Orca Scan <orcascan.com>
  * @license MIT
  */
 (function (window) {
