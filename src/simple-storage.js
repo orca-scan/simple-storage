@@ -103,11 +103,12 @@
         }
     };
 
-    // export
-    if (module && module.exports) {
+    // node export
+    if (typeof module !== 'undefined') {
         module.exports = simpleStorage;
     }
-    else {
+    // browser export
+    else if (typeof window !== 'undefined') {
         window.simpleStorage = simpleStorage;
     }
 

@@ -1,6 +1,6 @@
 {
   "name": "simple-storage",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "1k auto-casting localStorage helper",
   "main": "src/simple-storage.js",
   "scripts": {
